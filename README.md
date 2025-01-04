@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharanish-am" alt="dharanish-am" /></a> </p>
 
-- 🔭 I’m currently working on **Earthing Healthiness Monitor**
+- 🔭 I’m currently working on **BioKey**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Application Security**
 
 - 👨‍💻 All of my projects are available at [https://dharanish-am.netlify.app/](https://dharanish-am.netlify.app/)
-
-- 💬 Ask me about **react, node**
 
 - 📫 How to reach me **dharanish816@gmail.com**
 
