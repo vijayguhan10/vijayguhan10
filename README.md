@@ -9,11 +9,9 @@
 
 - 🌱 I’m currently learning **Application Security**
 
-- 👨‍💻 All of my projects are available at [https://dharanish-am.netlify.app/](https://dharanish-am.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://dharanish-am.netlify.app/](https://dharanish-am.netlify.app/](https://portfolio-amd.vercel.app/)
 
 - 📫 How to reach me **dharanish816@gmail.com**
-
-- 📄 Know about my experiences [https://tinyurl.com/3k7u7mdn](https://tinyurl.com/3k7u7mdn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
