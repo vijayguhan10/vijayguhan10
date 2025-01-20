@@ -15,7 +15,8 @@
 
 - 📫 How to reach me **dharanish816@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/17laRS8CTAlXNJon7XP5yal49vzY4rIqD/edit?usp=sharing&ouid=103235222337903927784&rtpof=true&sd=true](https://docs.google.com/document/d/17laRS8CTAlXNJon7XP5yal49vzY4rIqD/edit?usp=sharing&ouid=103235222337903927784&rtpof=true&sd=true)
+<p>📄 Know about my experiences <a href="https://docs.google.com/document/d/17laRS8CTAlXNJon7XP5yal49vzY4rIqD/edit?usp=sharing&ouid=103235222337903927784&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">View Resume</a></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
