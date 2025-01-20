@@ -91,6 +91,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vijayguhan10&show_icons=true&locale=en" alt="vijayguhan10" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijayguhan10" alt="vijayguhan10" />
+## GitHub Contributions Heatmap
+<p align="center">
+  <a href="https://github.com/vijayguhan10">
+    <img src="https://activity-graph.herokuapp.com/graph?username=vijayguhan10&bg_color=ffffff&color=00aaff&line=268bd2&point=0088cc&area=true&hide_border=true" alt="Vijay Guhan's Activity Graph">
+  </a>
 </p>
