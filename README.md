@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
   Hi, I'm Vijay Guhan
 </h1>
-<h3 align="center">🚀 Full-Stack Developer | 🏢 CEO @ Autom Consultancy | 🎯 ERP Solutions Expert</h3>
+<h3 align="center">🚀 Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vijayguhan10&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
