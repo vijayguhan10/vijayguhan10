@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharanish-am" alt="dharanish-am" /></a> </p>
 
-- 🔭 I’m currently working on [BioKey](https://github.com/Dharanish-AM/BioKey)
+- 🔭 I’m currently working on [AlgoLog](https://github.com/Dharanish-AM/AlgoLog)
 
 - 🌱 I’m currently learning **Application Security**
 
