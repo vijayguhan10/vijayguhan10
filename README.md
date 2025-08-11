@@ -58,32 +58,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vijayguhan10&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
----
 
-## 🎮 Fun Projects
-
-### Play My Games!
-<p align="center">
-  <a href="https://snake-2.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Snake%20Game-33cc99?style=for-the-badge&logo=gamejolt&logoColor=white" alt="Snake Game"/>
-  </a>
-  <a href="https://tetris.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Tetris-blueviolet?style=for-the-badge&logo=itch.io&logoColor=white" alt="Tetris"/>
-  </a>
-</p>
-
----
-
-## 🌟 Featured Projects
-
-### Autom Consultancy ERP
-<p align="center">
-  <a href="https://event-management-swart-kappa.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Autom%20Consultancy-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Autom Consultancy"/>
-  </a>
-</p>
-
----
 
 ## 📫 Let's Connect
 <p align="center">
