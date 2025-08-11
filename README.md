@@ -48,10 +48,10 @@
 
 ---
 
-## 🐍 My Contribution Graph (Eat My Code!)
-![Snake animation](https://github.com/vijayguhan10/vijayguhan10/blob/output/github-contribution-grid-snake.svg)
-
----
+<h2 align="center">🔥 Contribution Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayguhan10&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
 ## 🏆 GitHub Trophies
 <div align="center">
