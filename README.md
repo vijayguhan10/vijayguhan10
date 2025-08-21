@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-amd.vercel.app/](https://portfolio-amd.vercel.app/)
 
-- 💬 Ask me about **react, react-native, node**
+- 💬 Ask me about **react, react-native, node, mongodb, spring-boot, sql**
 
 - 📫 How to reach me **dharanish816@gmail.com**
 
