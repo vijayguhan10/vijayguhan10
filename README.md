@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [AlgoLog](https://github.com/Dharanish-AM/AlgoLog)
 
-- 🌱 I’m currently learning **Application Security**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-amd.vercel.app/](https://portfolio-amd.vercel.app/)
 
