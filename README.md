@@ -75,11 +75,7 @@
 
 ---
 
-## 💡 Quote of the Day
-<p align="center">
-  <i>"First, solve the problem. Then, write the code."</i> - John Johnson
-</p>
-
+<img src="https://raw.githubusercontent.com/vijayguhan10/vijayguhan10/output/snake.svg" alt="Snake animation" />
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200px" alt="Coding Gif"/>
 </p>
