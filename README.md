@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Vulnora-AI](https://github.com/Dharanish-AM/Vulnora-AI)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **AI/ML and Backend Systems**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-amd.vercel.app/](https://portfolio-amd.vercel.app/)
 
