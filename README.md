@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharanish A M</h1>
-<h3 align="center">Software Engineer • Full‑Stack Developer • Cloud & AI Enthusiast</h3>
+<h3 align="center">Software Engineer building scalable solutions across full-stack, cloud, and AI systems.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dharanish-am&label=Profile%20views&color=0e75b6&style=flat" />
@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently building **[Vulnora-AI](https://github.com/Dharanish-AM/Vulnora-AI)**
-- 🌱 Learning **AI/ML & Distributed Backend Systems**
+- 🌱 Learning **AI/ML & Backend Systems**
 - 👨‍💻 Portfolio → **https://portfolio-amd.vercel.app/**
 - 💬 Expertise → **React, React Native, Node.js, Spring Boot, MongoDB, SQL, Cloud, Security**
 - 📫 Email → **dharanish816@gmail.com**
