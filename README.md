@@ -5,7 +5,7 @@
 
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Dharanish-AM&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on [Swoosh](https://github.com/Dharanish-AM/Swoosh)
+- 🔭 I’m currently working on [Vulnora-AI](https://github.com/Dharanish-AM/Vulnora-AI)
 
 - 🌱 I’m currently learning **Spring Boot**
 
