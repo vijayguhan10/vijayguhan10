@@ -1,0 +1,23 @@
+name: Generate 3D Contribution Calendar
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate 3D graph
+        uses: yoshi389111/github-profile-3d-contrib@main
+        with:
+          username: Dharanish-AM
+
+      - name: Commit & Push
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Generated 3D contribution graph"
+          add: "profile-3d-contrib/*"
