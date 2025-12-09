@@ -2,12 +2,14 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Runs every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write        # IMPORTANT
     steps:
       - uses: actions/checkout@v3
 
@@ -18,8 +20,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Push changes
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "Updated snake animation"
-          add: "dist/*.svg"
+      - name: Push snake file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Update snake animation" || echo "No changes"
+          git push

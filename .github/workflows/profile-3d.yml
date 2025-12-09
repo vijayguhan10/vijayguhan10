@@ -2,22 +2,26 @@ name: Generate 3D Contribution Calendar
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write       # IMPORTANT
     steps:
       - uses: actions/checkout@v3
-      
-      - name: Generate 3D graph
+
+      - name: Generate 3D Calendar
         uses: yoshi389111/github-profile-3d-contrib@main
         with:
-          username: Dharanish-AM
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit & Push
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "Generated 3D contribution graph"
-          add: "profile-3d-contrib/*"
+      - name: Push 3D files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib/*
+          git commit -m "Update 3D contribution graph" || echo "No changes"
+          git push
