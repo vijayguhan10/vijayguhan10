@@ -66,8 +66,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dharanish-AM/Dharanish-AM/main/dist/github-contribution-grid-snake.svg" />
 </p>
@@ -75,7 +73,7 @@
 ## 🧊 3D Contribution Calendar
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/Dharanish-AM/Dharanish-AM/main/profile-3d-contrib/profile-night-rainbow.svg" />
+ <img src="https://raw.githubusercontent.com/Dharanish-AM/Dharanish-AM/main/profile-3d-contrib/profile-night-green.svg" />
 </p>
 
 ---
