@@ -49,8 +49,9 @@
 ---
 <h2 align="center">📅 Contribution Calendar</h2>
 <p align="center">
-  <img src="https://ghchart.rshah.org/vijayguhan10" alt="Vijay Guhan's GitHub Contribution Calendar"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vijayguhan10&show_icons=false&hide_title=true&theme=radical&hide_border=true&custom_title=Contribution%20Calendar"/>
 </p>
+
 
 <h2 align="center">🔥 Contribution Graph</h2>
 <p align="center">
