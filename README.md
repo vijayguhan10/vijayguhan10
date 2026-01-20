@@ -51,13 +51,59 @@
   <img src="https://ssr-contributions-svg.vercel.app/_/CatsJuice?chart=calendar&weeks=30&theme=green" alt="Contribution Calendar"/>
 </div>
 
+<!-- ================== -->
+<!-- 🚀 LUXURY CALENDAR -->
+<!-- ================== -->
 
+<style>
+  /* Glassmorphism Card */
+  .contrib-card {
+    background: rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(12px);
+    border-radius: 18px;
+    padding: 20px;
+    margin: 40px auto;
+    max-width: 940px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+  }
 
+  .contrib-title {
+    font-size: 1.9rem;
+    font-weight: 700;
+    margin-bottom: 12px;
+    color: #35c759;
+    text-shadow: 0px 2px 6px rgba(0, 0, 0, 0.35);
+  }
 
-<h2 align="center">🔥 Contribution Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayguhan10&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+  .contrib-sub {
+    font-size: 1.1rem;
+    opacity: 0.85;
+    margin-bottom: 20px;
+    color: #c0c0c0;
+  }
+</style>
+
+<div class="contrib-card" align="center">
+  <div class="contrib-title">📅 My 3D-Style Contribution Calendar</div>
+  <div class="contrib-sub">A visual summary of my GitHub activity — elegant and timeless.</div>
+
+  <!-- 📊 YOUR SVG CALENDAR -->
+  <img
+    src="https://raw.githubusercontent.com/vijayguhan10/vijayguhan10/main/vijayguhan10.svg"
+    alt="Vijay Guhan Contribution Calendar"
+    width="100%"
+    style="max-width:900px; border-radius:12px; border: 2px solid rgba(53, 199, 89, 0.6);"
+  />
+
+  <div style="margin-top:14px; font-size:0.95rem; opacity:0.75;">
+    Updated automatically via GitHub & optimized for dark theme.
+  </div>
+</div>
+
+<!-- =============== -->
+<!-- End: Calendar -->
+<!-- =============== -->
+
 
 ## 🏆 GitHub Trophies
 <div align="center">
