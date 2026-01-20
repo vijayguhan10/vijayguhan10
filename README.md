@@ -46,11 +46,11 @@
   </a>
 </div>
 
----
-<h2 align="center">📅 Contribution Calendar</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijayguhan10&show_icons=false&hide_title=true&theme=radical&hide_border=true&custom_title=Contribution%20Calendar"/>
-</p>
+<h2 align="center">📈 My 3D Contribution Calendar</h2>
+<div align="center">
+  <img width="900" src="https://ssr-contributions-svg.vercel.app/_/CatsJuice?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=mess&animation_duration=4&animation_loop=true&weeks=30&theme=green" alt="3D Contributions" />
+</div>
+
 
 
 <h2 align="center">🔥 Contribution Graph</h2>
