@@ -47,6 +47,10 @@
 </div>
 
 ---
+<h2 align="center">📅 Contribution Calendar</h2>
+<p align="center">
+  <img src="https://ghchart.rshah.org/vijayguhan10" alt="Vijay Guhan's GitHub Contribution Calendar"/>
+</p>
 
 <h2 align="center">🔥 Contribution Graph</h2>
 <p align="center">
