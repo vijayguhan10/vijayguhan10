@@ -2,12 +2,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
   Hi, I'm Vijay Guhan
 </h1>
-<h3 align="center">🚀 Full-Stack Developer</h3>
+<h3 align="center">🚀 Full-Stack Developer | Building Digital Experiences</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vijayguhan10&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/vijayguhan10?label=Followers&style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/twitter/follow/yourtwitter?style=social" alt="Twitter Follow"/>
 </p>
 
 <div align="center">
@@ -16,118 +15,162 @@
   </a>
 </div>
 
----
+<br/>
 
-## 🔥 My Tech Stack
+## ⚡ About Me
 
-### 🛠️ Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs" alt="Languages & Frameworks"/>
-</p>
-
-### 🗃️ Databases & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,firebase,vercel" alt="Databases & Cloud"/>
-</p>
-
-### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,figma,postman,vscode" alt="Tools & Platforms"/>
-</p>
+```yaml
+name: Vijay Guhan
+located_in: India
+current_focus: Full-Stack Development
+interests: ["Web Development", "Cloud Architecture", "Open Source"]
+hobbies: ["Coding", "Learning New Tech", "Building Projects"]
+```
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Tech Arsenal
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+      <br>NestJS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
   <a href="https://github.com/vijayguhan10">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vijayguhan10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayguhan10&layout=compact&langs_count=8&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vijayguhan10&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayguhan10&layout=compact&langs_count=8&theme=radical&border_radius=10"/>
   </a>
-</div>
+</p>
 
-<div align="center" style="background:#0d1117; padding:16px; border-radius:8px;">
-  <h2 align="center">📅 Contribution Calendar</h2>
-  <img src="https://ssr-contributions-svg.vercel.app/_/CatsJuice?chart=calendar&weeks=30&theme=green" alt="Contribution Calendar"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayguhan10&theme=redical&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
+</p>
 
-<!-- ================== -->
-<!-- 🚀 LUXURY CALENDAR -->
-<!-- ================== -->
-
-<style>
-  /* Glassmorphism Card */
-  .contrib-card {
-    background: rgba(255, 255, 255, 0.08);
-    backdrop-filter: blur(12px);
-    border-radius: 18px;
-    padding: 20px;
-    margin: 40px auto;
-    max-width: 940px;
-    border: 1px solid rgba(255, 255, 255, 0.2);
-  }
-
-  .contrib-title {
-    font-size: 1.9rem;
-    font-weight: 700;
-    margin-bottom: 12px;
-    color: #35c759;
-    text-shadow: 0px 2px 6px rgba(0, 0, 0, 0.35);
-  }
-
-  .contrib-sub {
-    font-size: 1.1rem;
-    opacity: 0.85;
-    margin-bottom: 20px;
-    color: #c0c0c0;
-  }
-</style>
-
-<div class="contrib-card" align="center">
-  <div class="contrib-title">📅 My 3D-Style Contribution Calendar</div>
-  <div class="contrib-sub">A visual summary of my GitHub activity — elegant and timeless.</div>
-
-  <!-- 📊 YOUR SVG CALENDAR -->
-  <img
-    src="https://raw.githubusercontent.com/vijayguhan10/vijayguhan10/main/vijayguhan10.svg"
-    alt="Vijay Guhan Contribution Calendar"
-    width="100%"
-    style="max-width:900px; border-radius:12px; border: 2px solid rgba(53, 199, 89, 0.6);"
-  />
-
-  <div style="margin-top:14px; font-size:0.95rem; opacity:0.75;">
-    Updated automatically via GitHub & optimized for dark theme.
-  </div>
-</div>
-
-<!-- =============== -->
-<!-- End: Calendar -->
-<!-- =============== -->
-
+---
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vijayguhan10&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vijayguhan10&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&row=2" alt="GitHub Trophies"/>
+</p>
 
+<!-- Alternative Trophy Display (if above doesn't work) -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vijayguhan10&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
+  </a>
+</p>
 
-## 📫 Let's Connect
+---
+
+## 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vijayguhan10/vijayguhan10/main/vijayguhan10.svg" alt="Contribution Calendar" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vijayguhan10/vijayguhan10/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```text
+🌱 Learning    : System Design, Microservices Architecture
+🔭 Working on  : Scalable Full-Stack Applications
+👯 Open to     : Collaborating on innovative projects
+💬 Ask me about: React, Node.js, Cloud Services
+```
+
+---
+
+## 🤝 Let's Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/vijay-guhan-728299283" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:vijayguhan10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  &nbsp;
+  <a href="https://github.com/vijayguhan10" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-<img src="https://raw.githubusercontent.com/vijayguhan10/vijayguhan10/output/snake.svg" alt="Snake animation" />
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200px" alt="Coding Gif"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <i>⭐ From <a href="https://github.com/vijayguhan10">Vijay Guhan</a> with 💜</i>
 </p>
