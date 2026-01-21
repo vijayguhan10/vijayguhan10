@@ -109,21 +109,32 @@ hobbies: ["Coding", "Learning New Tech", "Building Projects"]
 </p>
 
 <hr/>
-
 <h2>🏅 Earned Badges</h2>
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png" title="Arctic Code Vault Contributor" />
-  <img src="https://github.githubassets.com/images/modules/profile/badge--starstruck-64.png" title="Starstruck" />
-  <img src="https://github.githubassets.com/images/modules/profile/badge--quickdraw-64.png" title="Quickdraw" />
-  <img src="https://github.githubassets.com/images/modules/profile/badge--pull-shark-64.png" title="Pull Shark" />
+  <img
+    src="https://github.githubassets.com/images/modules/profile/badge--pull-shark-64.png"
+    alt="Pull Shark"
+    title="Pull Shark – Opened a pull request that got merged"
+  />
+
+  <img
+    src="https://github.githubassets.com/images/modules/profile/badge--quickdraw-64.png"
+    alt="Quickdraw"
+    title="Quickdraw – Closed an issue or PR within 5 minutes"
+  />
+
+  <img
+    src="https://github.githubassets.com/images/modules/profile/badge--starstruck-64.png"
+    alt="Starstruck"
+    title="Starstruck – Repository received stars"
+  />
 </p>
 
 <p align="center">
-  <b>These badges reflect real contributions, consistency, and community engagement.</b>
+  <b>Official GitHub Achievements earned through real contributions.</b>
 </p>
 
-<hr/>
 
 <h2>📅 Contribution Calendar</h2>
 
