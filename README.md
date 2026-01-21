@@ -110,11 +110,8 @@ hobbies: ["Coding", "Learning New Tech", "Building Projects"]
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vijayguhan10&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" /> </p>
----
+🏅 Earned Badges
+<p align="center"> <img src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png" title="Arctic Code Vault Contributor"/> <img src="https://github.githubassets.com/images/modules/profile/badge--starstruck-64.png" title="Starstruck"/> <img src="https://github.githubassets.com/images/modules/profile/badge--quickdraw-64.png" title="Quickdraw"/> <img src="https://github.githubassets.com/images/modules/profile/badge--pull-shark-64.png" title="Pull Shark"/> </p> <p align="center"> <b>These badges reflect real contributions, consistency, and community engagement.</b> </p>
 
 ## 📅 Contribution Calendar
 
