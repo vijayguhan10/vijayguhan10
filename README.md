@@ -113,17 +113,7 @@ hobbies: ["Coding", "Learning New Tech", "Building Projects"]
 
 ## 🏆 GitHub Trophies
 
-<div>
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=vijayguhan10">
-    <img src="https://github-profile-trophy.vercel.app/?username=vijayguhan10&margin-w=10" alt="GitHub Trophies" />
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=vijayguhan10&theme=radical&border_radius=10&mode=weekly" alt="GitHub Streak"/>
-  </a>
-</p>
-</div>
-
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vijayguhan10&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" /> </p>
 ---
 
 ## 📅 Contribution Calendar
