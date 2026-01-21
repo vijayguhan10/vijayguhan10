@@ -113,16 +113,16 @@ hobbies: ["Coding", "Learning New Tech", "Building Projects"]
 
 ## 🏆 GitHub Trophies
 
+<div>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vijayguhan10&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&row=2" alt="GitHub Trophies"/>
-</p>
-
-<!-- Alternative Trophy Display (if above doesn't work) -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vijayguhan10&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
+  <a href="https://github-profile-trophy.vercel.app/?username=vijayguhan10">
+    <img src="https://github-profile-trophy.vercel.app/?username=vijayguhan10&margin-w=10" alt="GitHub Trophies" />
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=vijayguhan10&theme=radical&border_radius=10&mode=weekly" alt="GitHub Streak"/>
   </a>
 </p>
+</div>
 
 ---
 
