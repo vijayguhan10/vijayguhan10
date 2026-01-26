@@ -106,31 +106,26 @@ hobbies: ["Coding", "Learning New Tech", "Building Projects"]
 
 <hr/>
 <h2>🏅 Earned Badges</h2>
+
 <p align="center">
-  <span style="display: inline-flex; gap: 15px;">
-
-    <img
-      src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png"
-      alt="Pull Shark"
-      title="Pull Shark – Opened a pull request that got merged"
-      width="85"
-    />
-
-    <img
-      src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png"
-      alt="Quickdraw"
-      title="Quickdraw – Closed an issue or PR within 5 minutes"
-      width="85"
-    />
-
-    <img
-      src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png"
-      alt="Starstruck"
-      title="Starstruck – Repository received stars"
-      width="85"
-    />
-
-  </span>
+  <img
+    src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png"
+    alt="Pull Shark"
+    title="Pull Shark – Opened a pull request that got merged"
+    width="85"
+  />
+  <img
+    src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png"
+    alt="Quickdraw"
+    title="Quickdraw – Closed an issue or PR within 5 minutes"
+    width="85"
+  />
+  <img
+    src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png"
+    alt="Starstruck"
+    title="Starstruck – Repository received stars"
+    width="85"
+  />
 </p>
 
 
