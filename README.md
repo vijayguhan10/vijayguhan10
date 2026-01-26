@@ -10,11 +10,7 @@
   <img src="https://img.shields.io/github/followers/vijayguhan10?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=vijayguhan10&theme=radical&border_radius=10&mode=weekly" alt="GitHub Streak" />
-  </a>
-</div>
+
 
 <br/>
 
@@ -113,19 +109,19 @@ hobbies: ["Coding", "Learning New Tech", "Building Projects"]
 
 <p align="center">
   <img
-    src="https://github.githubassets.com/images/modules/profile/badge--pull-shark-64.png"
+    src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png"
     alt="Pull Shark"
     title="Pull Shark – Opened a pull request that got merged"
   />
 
   <img
-    src="https://github.githubassets.com/images/modules/profile/badge--quickdraw-64.png"
+    src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png"
     alt="Quickdraw"
     title="Quickdraw – Closed an issue or PR within 5 minutes"
   />
 
   <img
-    src="https://github.githubassets.com/images/modules/profile/badge--starstruck-64.png"
+    src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png"
     alt="Starstruck"
     title="Starstruck – Repository received stars"
   />
