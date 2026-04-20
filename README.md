@@ -13,8 +13,8 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **[Vulnora-AI](https://github.com/Dharanish-AM/Vulnora-AI)**
-- 🌱 Learning **AI/ML & Backend Systems**
+- 🔭 Currently building **[AlgoLog](https://github.com/Dharanish-AM/AlgoLog)**
+- 🌱 Learning **Scala**
 - 👨‍💻 Portfolio → **https://portfolio-amd.vercel.app/**
 - 💬 Expertise → **React, React Native, Node.js, Spring Boot, MongoDB, SQL, Cloud, Security**
 - 📫 Email → **dharanish816@gmail.com**
