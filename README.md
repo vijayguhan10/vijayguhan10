@@ -23,9 +23,9 @@
 
 | Area       | Details                                                                                              |
 | ---------- | ---------------------------------------------------------------------------------------------------- |
-| Portfolio  | [portfolio-amd.vercel.app](https://vijayguhan.vercel.app/)                                           |
+| Portfolio  | [vijayguhan.vercel.app](https://vijayguhan.vercel.app/)                                           |
 | Email      | vijayguhan10@gmail.com                                                                               |
-| Resume     | [View Resume](https://docs.google.com/document/d/17laRS8CTAlXNJon7XP5yal49vzY4rIqD/edit?usp=sharing) |
+<!-- | Resume     | [View Resume](https://docs.google.com/document/d/17laRS8CTAlXNJon7XP5yal49vzY4rIqD/edit?usp=sharing) | -->
 | Core Stack | React, React Native, Node.js, Spring Boot, MongoDB, SQL                                              |
 
 ### Current Goals
