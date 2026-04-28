@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vijay Guhan</h1>
-<h3 align="center">Software Engineer building scalable solutions across full-stack, cloud, and AI systems.</h3>
+<h3 align="center">Software Engineer focused on full-stack development, cloud systems, and applied AI.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vijayguhan10&label=Profile%20views&color=0e75b6&style=flat" />
@@ -13,9 +13,15 @@
 
 ## About
 
-- 🔭 Currently building **[AlgoLog](https://github.com/vijayguhan10/AlgoLog)**
-- 🌱 Learning **Scala**
-- 💬 Focused on **Full-Stack Engineering, Cloud Systems, and AI-powered products**
+<p>
+  I build scalable, reliable software across web, cloud, and backend systems, with a focus on clean architecture and practical delivery.
+</p>
+
+<ul>
+  <li><b>Currently building:</b> <a href="https://github.com/vijayguhan10/AlgoLog">AlgoLog</a></li>
+  <li><b>Currently learning:</b> Scala</li>
+  <li><b>Primary interests:</b> Full-Stack Engineering, Cloud Systems, AI-powered products</li>
+</ul>
 
 ### Snapshot
 
@@ -189,4 +195,4 @@
 
 ---
 
-<p align="center">⭐ If you find my work helpful, consider leaving a star!</p>
+<p align="center">If you find my work helpful, consider leaving a star.</p>
