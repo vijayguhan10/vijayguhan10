@@ -15,16 +15,29 @@ jobs:
 
     steps:
       - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Cache-bust 3D SVG in README (only when updated)
+        run: |
+          set -euo pipefail
+          if git status --porcelain profile-3d-contrib | grep -q .; then
+            token="${GITHUB_RUN_ID:-$(date +%s)}"
+            sed -i -E "s|(https://raw.githubusercontent.com/vijayguhan10/vijayguhan10/main/profile-3d-contrib/profile-night-green\\.svg)(\\?v=[0-9]+)?|\\1?v=${token}|g" README.md
+          else
+            echo "No 3D SVG changes; skipping README cache bust."
+          fi
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+          git pull --rebase
           git add -A .
           if git commit -m "generated"; then
             git push

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vijay Guhan</h1>
+<h1 align="center">Hi, I'm Vijay Guhan</h1>
 <h3 align="center">Software Engineer building scalable solutions across full-stack, cloud, and AI systems.</h3>
 
 <p align="center">
@@ -11,13 +11,13 @@
 
 ---
 
-## 🚀 About Me
+## About
 
 - 🔭 Currently building **[AlgoLog](https://github.com/vijayguhan10/AlgoLog)**
 - 🌱 Learning **Scala**
 - 💬 Focused on **Full-Stack Engineering, Cloud Systems, and AI-powered products**
 
-### 📌 Snapshot
+### Snapshot
 
 | Area       | Details                                                                                              |
 | ---------- | ---------------------------------------------------------------------------------------------------- |
@@ -26,7 +26,7 @@
 | Resume     | [View Resume](https://docs.google.com/document/d/17laRS8CTAlXNJon7XP5yal49vzY4rIqD/edit?usp=sharing) |
 | Core Stack | React, React Native, Node.js, Spring Boot, MongoDB, SQL                                              |
 
-### 🎯 Current Goals
+### Current Goals
 
 - Build production-grade systems with strong performance and reliability.
 - Deepen cloud-native architecture and system design skills.
@@ -34,7 +34,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## Connect
 
 <table align="center">
   <tr>
@@ -53,7 +53,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -151,7 +151,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=vijayguhan10&layout=compact&theme=tokyonight&hide_border=true" />
@@ -167,7 +167,7 @@
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayguhan10&theme=react-dark&hide_border=true" />
@@ -175,16 +175,16 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/vijayguhan10/vijayguhan10/main/dist/github-contribution-grid-snake.svg" />
 </p>
 
-## 🧊 3D Contribution Calendar
+## 3D Contribution Calendar
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/vijayguhan10/vijayguhan10/main/profile-3d-contrib/profile-night-green.svg" />
+ <img src="https://raw.githubusercontent.com/vijayguhan10/vijayguhan10/main/profile-3d-contrib/profile-night-green.svg?v=1" />
 </p>
 
 ---
