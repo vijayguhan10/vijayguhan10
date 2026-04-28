@@ -1,14 +1,10 @@
 <h1 align="center">Hi, I'm Vijay Guhan</h1>
 <h3 align="center">Software Engineer focused on full-stack development, cloud systems, and applied AI.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vijayguhan10&label=Profile%20views&color=0e75b6&style=flat" />
+<p align="center" width="40px" height="40px">
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif
+  
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=vijayguhan10&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
-
 ---
 
 ## About
