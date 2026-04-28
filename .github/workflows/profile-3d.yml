@@ -23,6 +23,19 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Make SVG animations loop
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          files=(profile-3d-contrib/*animate*.svg)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "No animated SVGs found; skipping."
+            exit 0
+          fi
+          for f in "${files[@]}"; do
+            sed -i 's/repeatCount="1"/repeatCount="indefinite"/g' "$f"
+          done
+
       - name: Cache-bust 3D SVG in README (only when updated)
         run: |
           set -euo pipefail
