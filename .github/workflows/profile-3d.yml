@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   build:
@@ -36,22 +36,8 @@ jobs:
             sed -i 's/repeatCount="1"/repeatCount="indefinite"/g' "$f"
           done
 
-      - name: Cache-bust 3D SVG in README (only when updated)
-        run: |
-          set -euo pipefail
-          if git status --porcelain profile-3d-contrib | grep -q .; then
-            token="${GITHUB_RUN_ID:-$(date +%s)}"
-            sed -i -E "s|(https://raw.githubusercontent.com/vijayguhan10/vijayguhan10/main/profile-3d-contrib/profile-night-green\\.svg)(\\?v=[0-9]+)?|\\1?v=${token}|g" README.md
-          else
-            echo "No 3D SVG changes; skipping README cache bust."
-          fi
-
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git pull --rebase
-          git add -A .
-          if git commit -m "generated"; then
-            git push
-          fi
+      - name: Upload generated SVGs (artifact)
+        uses: actions/upload-artifact@v4
+        with:
+          name: profile-3d-contrib
+          path: profile-3d-contrib/*.svg
