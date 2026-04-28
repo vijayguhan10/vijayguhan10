@@ -1,30 +1,30 @@
-<h1 align="center">Hi 👋, I'm Dharanish A M</h1>
+<h1 align="center">Hi 👋, I'm Vijay Guhan</h1>
 <h3 align="center">Software Engineer building scalable solutions across full-stack, cloud, and AI systems.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dharanish-am&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=vijayguhan10&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=dharanish-am&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=vijayguhan10&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently building **[AlgoLog](https://github.com/Dharanish-AM/AlgoLog)**
+- 🔭 Currently building **[AlgoLog](https://github.com/vijayguhan10/AlgoLog)**
 - 🌱 Learning **Scala**
 - 💬 Focused on **Full-Stack Engineering, Cloud Systems, and AI-powered products**
 
 ### 📌 Snapshot
 
-| Area | Details |
-| --- | --- |
-| Portfolio | [portfolio-amd.vercel.app](https://portfolio-amd.vercel.app/) |
-| Email | dharanish816@gmail.com |
-| Resume | [View Resume](https://docs.google.com/document/d/17laRS8CTAlXNJon7XP5yal49vzY4rIqD/edit?usp=sharing) |
-| Core Stack | React, React Native, Node.js, Spring Boot, MongoDB, SQL |
+| Area       | Details                                                                                              |
+| ---------- | ---------------------------------------------------------------------------------------------------- |
+| Portfolio  | [portfolio-amd.vercel.app](https://vijayguhan.vercel.app/)                                           |
+| Email      | vijayguhan10@gmail.com                                                                               |
+| Resume     | [View Resume](https://docs.google.com/document/d/17laRS8CTAlXNJon7XP5yal49vzY4rIqD/edit?usp=sharing) |
+| Core Stack | React, React Native, Node.js, Spring Boot, MongoDB, SQL                                              |
 
 ### 🎯 Current Goals
 
@@ -39,12 +39,12 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://linkedin.com/in/dharanish-a-m-40a797295" target="_blank">
+      <a href="https://linkedin.com/in/vijayguhan" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
       </a>
     </td>
     <td align="center">
-      <a href="https://instagram.com/dharanish_15_" target="_blank">
+      <a href="https://instagram.com/vijayguhan05" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
       </a>
     </td>
@@ -154,15 +154,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dharanish-am&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=vijayguhan10&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=dharanish-am&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=vijayguhan10&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dharanish-am&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=vijayguhan10&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -170,20 +170,21 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharanish-am&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayguhan10&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dharanish-AM/Dharanish-AM/main/dist/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/vijayguhan10/vijayguhan10/main/dist/github-contribution-grid-snake.svg" />
 </p>
 
 ## 🧊 3D Contribution Calendar
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/Dharanish-AM/Dharanish-AM/main/profile-3d-contrib/profile-night-green.svg" />
+ <img src="https://raw.githubusercontent.com/vijayguhan10/vijayguhan10/main/profile-3d-contrib/profile-night-green.svg" />
 </p>
 
 ---
